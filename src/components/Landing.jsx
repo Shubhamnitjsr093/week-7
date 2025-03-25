@@ -2,6 +2,6 @@
 
 export default function Landing() {
     return <div>
-        Landing page
+        Landing page my page
     </div>
 }
